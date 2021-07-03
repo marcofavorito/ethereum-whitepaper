@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/marcofavorito/ethereum-whitepaper/tree/gh-pages) branch hosts the contents of this directory at <https://marcofavorito.github.io/ethereum-whitepaper/>.
-The permalink for this webpage version is <https://marcofavorito.github.io/ethereum-whitepaper/v/8d403eb3b87a07bdd4656c0effe3dbbe768f336e/>.
+The permalink for this webpage version is <https://marcofavorito.github.io/ethereum-whitepaper/v/30612aaeb948d4f4e15532930b512cd1e6701a67/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://marcofavorito.github.io/ethereum-whitepaper/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`8d403eb3b87a07bdd4656c0effe3dbbe768f336e`](https://github.com/marcofavorito/ethereum-whitepaper/commit/8d403eb3b87a07bdd4656c0effe3dbbe768f336e).
+[`30612aaeb948d4f4e15532930b512cd1e6701a67`](https://github.com/marcofavorito/ethereum-whitepaper/commit/30612aaeb948d4f4e15532930b512cd1e6701a67).
