@@ -38,7 +38,7 @@ Ethereum’s
 ethresear
 EVM
 facto
-Finney
+finney
 fn
 futarchy
 Garzik

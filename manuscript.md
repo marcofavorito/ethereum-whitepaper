@@ -33,9 +33,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://marcofavorito.github.io/ethereum-whitepaper/" />
   <meta name="citation_pdf_url" content="https://marcofavorito.github.io/ethereum-whitepaper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://marcofavorito.github.io/ethereum-whitepaper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://marcofavorito.github.io/ethereum-whitepaper/v/30612aaeb948d4f4e15532930b512cd1e6701a67/" />
-  <meta name="manubot_html_url_versioned" content="https://marcofavorito.github.io/ethereum-whitepaper/v/30612aaeb948d4f4e15532930b512cd1e6701a67/" />
-  <meta name="manubot_pdf_url_versioned" content="https://marcofavorito.github.io/ethereum-whitepaper/v/30612aaeb948d4f4e15532930b512cd1e6701a67/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://marcofavorito.github.io/ethereum-whitepaper/v/e896170a7967b74fddaee423a4fe65ead4101646/" />
+  <meta name="manubot_html_url_versioned" content="https://marcofavorito.github.io/ethereum-whitepaper/v/e896170a7967b74fddaee423a4fe65ead4101646/" />
+  <meta name="manubot_pdf_url_versioned" content="https://marcofavorito.github.io/ethereum-whitepaper/v/e896170a7967b74fddaee423a4fe65ead4101646/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -56,9 +56,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://marcofavorito.github.io/ethereum-whitepaper/v/30612aaeb948d4f4e15532930b512cd1e6701a67/))
+([permalink](https://marcofavorito.github.io/ethereum-whitepaper/v/e896170a7967b74fddaee423a4fe65ead4101646/))
 was automatically generated
-from [marcofavorito/ethereum-whitepaper@30612aa](https://github.com/marcofavorito/ethereum-whitepaper/tree/30612aaeb948d4f4e15532930b512cd1e6701a67)
+from [marcofavorito/ethereum-whitepaper@e896170](https://github.com/marcofavorito/ethereum-whitepaper/tree/e896170a7967b74fddaee423a4fe65ead4101646)
 on July 3, 2021.
 </em></small>
 
